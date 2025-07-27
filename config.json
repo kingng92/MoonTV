@@ -85,37 +85,69 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "xiaomaomi": {
-      "api": "https://api.okzyw.net/api.php/provide/vod",
-      "name": "ok资源"
-     },
-    "xiaomaomi": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速云"
-     },
-    "xiaomaomi": {
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
-      "name": "鸭鸭资源"
-      },
-    "lzi": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "索尼资源"
-      },
-    "xiaomaomi": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "KK伦理"
-       },
-    "xiaomaomi": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
-      "name": "快车资源"
-      },
-    "xiaomaomi": {
-      "api": "	https://api.souavzy.vip/api.php/provide/vod",
-      "name": "souav资源"
-      },
-    "xiaomaomi": {
-      "api": "	https://caiji.semaozy.net/inc/apijson_vod",
-      "name": "色猫资源"
+    "huawei": {
+      "api": "https://hw8.live/api.php/provide/vod",
+      "name": "华为吧影视资源站"
+    },
+    "dbzy_caiji": {
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "name": "豆瓣资源采集站"
+    },
+    "baidu": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "最新百度资源采集"
+    },
+    "fengchao": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢片库采集站"
+    },
+    "aiqiyi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源站"
+    },
+    "fanqie": {
+      "api": "https://fqzy.me/api.php/provide/vod",
+      "name": "番茄资源"
+    },
+    "wolong_caiji": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙影视资源采集站"
+    },
+    "kuaiobo": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源网"
+    },
+    "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧资源站"
+    },
+    "tyyszy_api": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "天涯影视资源网"
+    },
+    "jmzy": {
+      "api": "https://api.jmzy.com/api.php/provide/vod/",
+      "name": "金马资源网"
+    },
+    "wuxian": {
+      "api": "https://api.wuxianzy.net/api.php/provide/vod",
+      "name": "无线资源网"
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod",
+      "name": "淘片资源"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "fantuan": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod",
+      "name": "饭团影视"
+    },
+    "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "七七资源"
     }
   }
 }
